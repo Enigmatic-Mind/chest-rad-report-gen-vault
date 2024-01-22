@@ -1,0 +1,29 @@
+{
+  "recentFiles": [
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Project Log",
+      "path": "Project Log.md"
+    },
+    {
+      "basename": "Papers Reviewed",
+      "path": "Papers Reviewed.md"
+    },
+    {
+      "basename": "Literature Search Process",
+      "path": "Literature Search Process.md"
+    },
+    {
+      "basename": "Metrics",
+      "path": "Metrics.md"
+    }
+  ],
+  "omittedPaths": [
+    ""
+  ],
+  "maxLength": null,
+  "openType": "tab"
+}

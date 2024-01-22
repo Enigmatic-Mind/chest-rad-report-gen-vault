@@ -1,0 +1,39 @@
+- **Purpose**: To track your progress and thoughts.
+- **Contents**: Date-wise entries of your work, reflections, challenges faced, and insights gained. This can be valuable for understanding your journey and for future projects.
+
+
+- [x] Find 5 papers
+	- [x] Finish papers on excel list
+	- [x] Go through tabs opened up
+	- [x] Finish opening up ~120 papers on google scholar
+	- [x] Select top 5 papers
+- [x] Read [[MIMIC-CXR ]]paper
+- [x] Read [[IU-Xray]] paper
+- [x] Read summaries
+- [ ] Read papers introducing metrics
+	- [x] BLEU 📅 2024-01-14
+		- [x] find youtube video that quickly summarizes it
+		- [x] look at formula
+		- [x] difference between bleu 1 to 4?
+		- [x] break the paper into chunks and draw it out
+		- [x] write out questions
+		- [x] review paper again. Ask chatgpt. look online. etc.
+	- [x] METEOR 📅 2024-01-17
+	- [ ] ROUGE 📅 2024-01-15 
+	- [ ] CIDEr 📅 2024-01-19
+	- [x] Clinical Efficacy
+		- [x] Accuracy
+		- [x] Precision
+		- [x] Recall
+		- [x] F1 Score
+- [x] Read selected literature review papers
+	- [x] Complex organ mask
+	- [x] Automated Generation of Accurate and Fluent Medical Xray Reports
+	- [x] Medical image captioning via generative pretrained transformers
+	- [x] Organ
+	- [x] recap
+- [ ] Review code from selected papers
+	- [x] Automated Generation of Accurate and Fluent Medical Xray Reports
+	- [ ] Organ
+	- [ ] recap
+	- [ ] Complex organ mask

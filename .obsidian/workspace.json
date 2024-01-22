@@ -1,0 +1,497 @@
+{
+  "main": {
+    "id": "0ffda09c1ca94938",
+    "type": "split",
+    "children": [
+      {
+        "id": "c07d5de7a05417cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b86e92172d0f155",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7b0c397fc5cbbfa",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Literature Search Process",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Literature Search Process.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Metrics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Metrics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":64},\"to\":{\"line\":62,\"ch\":64}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9628ecd6fe23c58e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature Search Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e3e245cfd3fcad2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers Reviewed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31667f79e013ac94",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Metrics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Metrics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":9.097411717495987}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":171},\"to\":{\"line\":1,\"ch\":171}}}"
+                },
+                {
+                  "title": "Metrics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Metrics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":188},\"to\":{\"line\":1,\"ch\":188}}}"
+                },
+                {
+                  "title": "Literature Search Process",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Literature Search Process.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":248},\"to\":{\"line\":1,\"ch\":248}}}"
+                },
+                {
+                  "title": "Papers Reviewed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Papers Reviewed.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":285},\"to\":{\"line\":1,\"ch\":285}}}"
+                },
+                {
+                  "title": "Metrics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Metrics.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Project Log",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Project Log.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":176},\"to\":{\"line\":1,\"ch\":176}}}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":188},\"to\":{\"line\":10,\"ch\":188}}}"
+                },
+                {
+                  "title": "Project Log",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Project Log.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df07543e4a2dd86f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5c86269e0b6a8a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6432220a5157bab",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81e1cab893e30225",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7109571122edcfa",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d18fc5b1a32eb79",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "1a505861b22f276b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bd84714810feed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "696d662e5d764519",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10fcf40cfedb5303",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a8014a25a127723",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c3770967e942dedd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "6a5a0da576eb4831",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "27248ffcbc52ea68",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "e3a39869f59daa3f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "custom-sort:Toggle custom sorting": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "templater-obsidian:Templater": false,
+      "janitor:Janitor: scan vault": false
+    }
+  },
+  "active": "6b86e92172d0f155",
+  "lastOpenFiles": [
+    "Project Log.md",
+    "Papers Reviewed.md",
+    "Literature Search Process.md",
+    "README.md",
+    "Metrics.md",
+    "Planner/2024/2024-01/W04/2024-01-22.md",
+    "Planner/2024/2024-01/W03/2024-01-21.md",
+    "Planner/2024/2024-01/W04/W04.md",
+    "Planner/2024/2024-01/W01/W01.md",
+    "Planner/2024/2024-01/W04/2024-01-28.md",
+    "Planner/2024/2024-01/W04/2024-01-27.md",
+    "Planner/2024/2024-01/W04/2024-01-26.md",
+    "Planner/2024/2024-01/W04/2024-01-25.md",
+    "Planner/2024/2024-01/W04/2024-01-24.md",
+    "Planner/2024/2024-01/W04/2024-01-23.md",
+    "Planner/2024/2024-01/W04",
+    "Efforts/Intellectual/Radiology Report Generation/2_plan_strategy/1 Action Plan.md",
+    "Efforts/Occupational/MarchToStartup - Youtube/Tasks.md",
+    "Planner/2024/2024-01/W03/2024-01-20.md",
+    "Planner/2024/2024-01/W03/2024-01-19.md",
+    "computer_productivity/macOS/macOS.md",
+    "computer_productivity/macOS/Complete List of Hotkeys.md",
+    "start_here/Hotkeys.md",
+    "computer_productivity/macOS/TrashMe 3.md",
+    "computer_productivity/macOS/Logi Options+.md",
+    "computer_productivity/macOS/Amphetamine.md",
+    "computer_productivity/macOS/altTab.md",
+    "images/Screenshot 2024-01-19 at 2.01.02 AM.png",
+    "images/Screenshot 2024-01-19 at 1.59.58 AM.png",
+    "computer_productivity/macOS/images/Screenshot 2024-01-18 at 7.07.03 PM.png",
+    "computer_productivity/macOS/images/Screenshot 2024-01-18 at 10.26.40 AM.png",
+    "computer_productivity/macOS/images/Screenshot 2024-01-18 at 10.26.07 AM.png",
+    "computer_productivity/macOS/images/Screenshot 2024-01-18 at 10.25.19 AM.png",
+    "computer_productivity/macOS/images/Screenshot 2024-01-18 at 10.18.12 AM.png",
+    "computer_productivity/macOS/images/Screenshot 2024-01-18 at 9.23.04 AM.png",
+    "computer_productivity/macOS/images/Screenshot 2024-01-18 at 9.08.03 AM.png",
+    "computer_productivity/macOS/images/Screenshot 2024-01-18 at 8.45.33 AM.png",
+    "images",
+    "Planner/2024/2024-01/W03",
+    "Efforts/Occupational/MarchToStartup - Youtube",
+    "computer_productivity/windows",
+    "computer_productivity/linux",
+    "computer_productivity/macOS",
+    "computer_productivity/macOS/images",
+    "Command Center/Inbox/images",
+    "computer_productivity"
+  ]
+}

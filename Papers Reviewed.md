@@ -1,0 +1,2 @@
+- **Purpose**: Folder to store files, each representing a paper you’ve reviewed.
+- **Contents**: Create a separate Markdown file for each paper, like `Smith2023-ChestRadiology.md`. In each file, summarize the paper, its methodology, findings, and its relevance to your project. This not only helps in organizing but also makes it easier to reference specific papers.

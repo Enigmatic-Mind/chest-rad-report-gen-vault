@@ -1,0 +1,2 @@
+- **Purpose**: To document your methodology in conducting the literature review.
+- **Contents**: Explain how you selected papers, the databases and search terms you used, and any criteria for inclusion or exclusion. This transparency in your methodology is valuable for replicability and understanding the scope of your research.

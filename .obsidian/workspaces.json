@@ -1,0 +1,1025 @@
+{
+  "workspaces": {
+    "daily_planner&notes": {
+      "main": {
+        "id": "0ffda09c1ca94938",
+        "type": "split",
+        "ophidian:layout-settings": {
+          "pane-relief:sliding-panes": {
+            "active": true
+          }
+        },
+        "children": [
+          {
+            "id": "9e79bc76b1cc417f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b01b0a60a24b5888",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Planner/2024/2024-01/W01/2024-01-01.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "df07543e4a2dd86f",
+        "type": "split",
+        "children": [
+          {
+            "id": "d5c86269e0b6a8a0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f6432220a5157bab",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "81e1cab893e30225",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c7109571122edcfa",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8d18fc5b1a32eb79",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#task",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 234.5
+      },
+      "right": {
+        "id": "1a505861b22f276b",
+        "type": "split",
+        "children": [
+          {
+            "id": "2bd84714810feed7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "696d662e5d764519",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Planner/2024/2024-01/W01/2024-01-01.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "10fcf40cfedb5303",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Planner/2024/2024-01/W01/2024-01-01.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1a8014a25a127723",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "c3770967e942dedd",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Planner/2024/2024-01/W01/2024-01-01.md"
+                  }
+                }
+              },
+              {
+                "id": "6a5a0da576eb4831",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "27248ffcbc52ea68",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "e3a39869f59daa3f",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "quiet-outline",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "custom-sort:Toggle custom sorting": false,
+          "dbfolder:Create a new database table": false,
+          "obsidian-statusbar-pomo:Start pomodoro": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:Manage workspace layouts": false,
+          "janitor:Janitor: scan vault": false
+        }
+      },
+      "active": "b01b0a60a24b5888",
+      "ophidian:layout-settings": {
+        "pane-relief:focus-lock": true
+      },
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Efforts/Emotional",
+          "Efforts/Environmental",
+          "Efforts/Intellectual",
+          "Efforts/Intellectual/Radiology Report Generation",
+          "Efforts/Intellectual/Radiology Report Generation/2_plan_strategy",
+          "Efforts/LifeOps",
+          "Planner",
+          "Planner/2023/2023-12",
+          "Planner/2024",
+          "Planner/2024/2024-01",
+          "Planner/2024/2024-01/W01"
+        ]
+      }
+    },
+    "RRG": {
+      "main": {
+        "id": "0ffda09c1ca94938",
+        "type": "split",
+        "ophidian:layout-settings": {
+          "pane-relief:sliding-panes": {
+            "active": true
+          }
+        },
+        "children": [
+          {
+            "id": "c07d5de7a05417cd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6b86e92172d0f155",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "0 Timeline & Milestones",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Intellectual/Radiology Report Generation/2_plan_strategy/0 Timeline & Milestones.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":13}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Efforts/Intellectual/Radiology Report Generation/2_plan_strategy/1 Action Plan.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "df07543e4a2dd86f",
+        "type": "split",
+        "children": [
+          {
+            "id": "d5c86269e0b6a8a0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f6432220a5157bab",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "81e1cab893e30225",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c7109571122edcfa",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8d18fc5b1a32eb79",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#task",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 234.5
+      },
+      "right": {
+        "id": "1a505861b22f276b",
+        "type": "split",
+        "children": [
+          {
+            "id": "2bd84714810feed7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "696d662e5d764519",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Efforts/Intellectual/Radiology Report Generation/2_plan_strategy/1 Action Plan.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "10fcf40cfedb5303",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Efforts/Intellectual/Radiology Report Generation/2_plan_strategy/1 Action Plan.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1a8014a25a127723",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "c3770967e942dedd",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Efforts/Intellectual/Radiology Report Generation/2_plan_strategy/1 Action Plan.md"
+                  }
+                }
+              },
+              {
+                "id": "6a5a0da576eb4831",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "27248ffcbc52ea68",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "e3a39869f59daa3f",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "quiet-outline",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "custom-sort:Toggle custom sorting": false,
+          "dbfolder:Create a new database table": false,
+          "obsidian-statusbar-pomo:Start pomodoro": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:Manage workspace layouts": false,
+          "janitor:Janitor: scan vault": false
+        }
+      },
+      "active": "6b86e92172d0f155",
+      "ophidian:layout-settings": {
+        "pane-relief:focus-lock": true
+      },
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Efforts",
+          "Efforts/Emotional",
+          "Efforts/Environmental",
+          "Efforts/Intellectual",
+          "Efforts/Intellectual/Radiology Report Generation",
+          "Efforts/Intellectual/Radiology Report Generation/2_plan_strategy",
+          "Planner/2023/2023-12",
+          "Planner/2024",
+          "Planner/2024/2024-01",
+          "Planner/2024/2024-01/W01"
+        ]
+      }
+    },
+    "marchtostartup": {
+      "main": {
+        "id": "0ffda09c1ca94938",
+        "type": "split",
+        "ophidian:layout-settings": {
+          "pane-relief:sliding-panes": {
+            "active": true
+          }
+        },
+        "children": [
+          {
+            "id": "c07d5de7a05417cd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "768758a8a0bfcaf6",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 3,
+                  "stack": [
+                    {
+                      "title": "MonitorControl",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"computer_productivity/macOS/MonitorControl.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":184},\"to\":{\"line\":7,\"ch\":184}},\"scroll\":0}"
+                    },
+                    {
+                      "title": "macOS",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"computer_productivity/macOS/macOS.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":88},\"to\":{\"line\":24,\"ch\":88}},\"scroll\":0}"
+                    },
+                    {
+                      "title": "!start_here",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"computer_productivity/!start_here.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                    },
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Efforts/Occupational/MarchToStartup - Youtube/Tasks.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "2b1673833b91ff7c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "28d075a300f90fbb",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "computer_productivity/macOS/macOS.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "df07543e4a2dd86f",
+        "type": "split",
+        "children": [
+          {
+            "id": "d5c86269e0b6a8a0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f6432220a5157bab",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "81e1cab893e30225",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c7109571122edcfa",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8d18fc5b1a32eb79",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#task",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 234.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "1a505861b22f276b",
+        "type": "split",
+        "children": [
+          {
+            "id": "2bd84714810feed7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "696d662e5d764519",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "computer_productivity/macOS/macOS.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "10fcf40cfedb5303",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "computer_productivity/macOS/macOS.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1a8014a25a127723",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "c3770967e942dedd",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "computer_productivity/macOS/macOS.md"
+                  }
+                }
+              },
+              {
+                "id": "6a5a0da576eb4831",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "27248ffcbc52ea68",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "e3a39869f59daa3f",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "quiet-outline",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "custom-sort:Toggle custom sorting": false,
+          "dbfolder:Create a new database table": false,
+          "obsidian-statusbar-pomo:Start pomodoro": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:Manage workspace layouts": false,
+          "janitor:Janitor: scan vault": false
+        }
+      },
+      "active": "28d075a300f90fbb",
+      "ophidian:layout-settings": {
+        "pane-relief:focus-lock": true
+      },
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "computer_productivity",
+          "computer_productivity/macOS",
+          "Efforts/Emotional",
+          "Efforts/Environmental",
+          "Efforts/Intellectual/Radiology Report Generation",
+          "Efforts/Intellectual/Radiology Report Generation/2_plan_strategy",
+          "Efforts/Occupational",
+          "Efforts/Occupational/MarchToStartup - Youtube",
+          "Planner/2023/2023-12",
+          "Planner/2024",
+          "Planner/2024/2024-01",
+          "Planner/2024/2024-01/W03"
+        ]
+      }
+    }
+  },
+  "active": "RRG"
+}
